@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "[CV](file:///files/Resume.pdf)"
+title: "[CV]"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-
+(file:///files/Resume.pdf)
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
