@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[myFile.js]({{CV='files\Resume.pdf'}})
+[myFile.js]({{file name='files/Resume.pdf'}})
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
