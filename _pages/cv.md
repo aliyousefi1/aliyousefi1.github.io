@@ -1,14 +1,12 @@
 ---
 layout: archive
-title: "CV"
+title: "[CV](file:///files/Resume.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-[Download CV](file:///file/Resume)
-======
-* Currently signed in to 43 different slack teams
+
 
 Education
 ======
